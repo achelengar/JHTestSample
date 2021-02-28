@@ -7,10 +7,10 @@ Prerequisite:
 
 * Java JDK 1.7 or above
 * Maven installation (apache-maven-3.6.3-bin.zip )
-
-	*	Following should be added to system environment Variables:
-			 System variable Path -	C:\maven\bin
-              		 System variable MAVEN_HOME   C:\maven
+      
+      * Following should be added to system environment Variables:
+            _ System variable Path -	C:\maven\bin
+            _ System variable MAVEN_HOME   C:\maven
 
 
  * Download the Test package to a Test folder 
